@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/MNIST.iml" filepath="$PROJECT_DIR$/../.idea/MNIST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/common.iml" filepath="$PROJECT_DIR$/.idea/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dataset/.idea/dataset.iml" filepath="$PROJECT_DIR$/../dataset/.idea/dataset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../guanghuan/.idea/guanghuan.iml" filepath="$PROJECT_DIR$/../../guanghuan/.idea/guanghuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../test/.idea/test.iml" filepath="$PROJECT_DIR$/../../test/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
